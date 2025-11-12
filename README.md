@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>Developing an OSINT methodological framework (OSM) and structuring professional digital footprint analysis services through my company, Cryptex.<br><br>👯 I’m looking to collaborate on<br>Advanced offensive cybersecurity projects, OSINT, web pentesting, or automation tools for information collection and analysis.<br><br>🤝 I’m looking for help with<br>Optimizing automation pipelines for OSINT reporting and integrating reliable, reproducible multi-source analysis methodologies.<br><br>🌱 I’m currently learning<br>Advanced Windows/Active Directory post-exploitation techniques, malware analysis, and IoT system exploitation.<br><br>💬 Ask me about<br>Advanced OSINT, offensive cybersecurity, analytical methodologies, human profiling, or data collection and visualization automation.<br><br>⚡ Fun fact<br>I enjoy building tools and frameworks that turn complex cybersecurity challenges into structured, actionable processes.<br><br>🌐 The website: https://cryptexhq.github.io/
 
 
-## 🌐 Socials:
+## 🌍 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cryptexhq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@cryptexhq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.digital.trace@gmail.com) 
 
 # 💻 Tech Stack:
